@@ -9,6 +9,7 @@ if(!(window.console && console.log)) {
 	};
 }
 
-(function($){
+$(document).ready(function() {
 
-})(jQuery);
+
+});
